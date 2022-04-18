@@ -1,2 +1,2 @@
-# slack_api_for_gas
-slack api for gas
+# Abstruct
+I want to use Slack API easily with GAS.
